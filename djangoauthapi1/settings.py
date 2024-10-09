@@ -147,3 +147,5 @@ CORS_ALLOWED_ORIGINS = [
 # - DEBUG (set to False)
 # - EMAIL_USER
 # - EMAIL_PASS
+
+
